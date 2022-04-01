@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5661B904-41F7-4836-ACEC-325D590151B8}|Default">
+  <MonoDevelop.Ide.ItemProperties.charts.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.254D3A8B-D765-4F80-9151-05F500731EF2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="charts/MainPage.xaml.cs">
+    <Files>
+      <File FileName="charts/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="charts/MainPage.xaml.cs" Line="22" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="charts" expanded="True">
+            <Node name="charts" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.charts.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/paco/projects/suma/suma/bin/Debug/netstandard2.0/suma.deps.json
+/Users/paco/projects/suma/suma/bin/Debug/netstandard2.0/suma.dll
+/Users/paco/projects/suma/suma/bin/Debug/netstandard2.0/ref/suma.dll
+/Users/paco/projects/suma/suma/bin/Debug/netstandard2.0/suma.pdb
+/Users/paco/projects/suma/suma/obj/Debug/netstandard2.0/suma.csproj.AssemblyReference.cache
+/Users/paco/projects/suma/suma/obj/Debug/netstandard2.0/suma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paco/projects/suma/suma/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/paco/projects/suma/suma/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/paco/projects/suma/suma/obj/Debug/netstandard2.0/suma.AssemblyInfoInputs.cache
+/Users/paco/projects/suma/suma/obj/Debug/netstandard2.0/suma.AssemblyInfo.cs
+/Users/paco/projects/suma/suma/obj/Debug/netstandard2.0/suma.csproj.CoreCompileInputs.cache
+/Users/paco/projects/suma/suma/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/paco/projects/suma/suma/obj/Debug/netstandard2.0/suma.dll
+/Users/paco/projects/suma/suma/obj/Debug/netstandard2.0/ref/suma.dll
+/Users/paco/projects/suma/suma/obj/Debug/netstandard2.0/suma.pdb

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="picker.MainPage">
+
+    <StackLayout Margin="15">
+        <Label Text="Numero uno"
+               Margin="0,10"/>
+        <Entry x:Name="firstValueInput"/>
+        <Label Text="Numero dos"
+               Margin="0,10"/>
+        <Entry x:Name="secondValueInput"/>
+
+        <StackLayout Orientation="Horizontal" Margin="0, 10">
+            <Label Text="Selecciona una operación:"
+                   VerticalOptions="Center"/>
+            <Picker x:Name="operationPicker"
+                    Title="Operaciones"
+                    VerticalOptions="Center">
+                <Picker.Items>
+                    <x:String>Suma</x:String>
+                    <x:String>Resta</x:String>
+                </Picker.Items>
+            </Picker>
+        </StackLayout>
+
+        <Button Text="Ejecutar"
+                Clicked="Button_Clicked"/>
+        <Label x:Name="resultLabel"
+               Text="Resultado"
+               FontAttributes="Bold"
+               FontSize="Large"/>
+    </StackLayout>
+
+</ContentPage>

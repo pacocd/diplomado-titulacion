@@ -1,0 +1,15 @@
+/Users/paco/projects/radio_buttons/radio_buttons/bin/Debug/netstandard2.0/radio_buttons.deps.json
+/Users/paco/projects/radio_buttons/radio_buttons/bin/Debug/netstandard2.0/radio_buttons.dll
+/Users/paco/projects/radio_buttons/radio_buttons/bin/Debug/netstandard2.0/ref/radio_buttons.dll
+/Users/paco/projects/radio_buttons/radio_buttons/bin/Debug/netstandard2.0/radio_buttons.pdb
+/Users/paco/projects/radio_buttons/radio_buttons/obj/Debug/netstandard2.0/radio_buttons.csproj.AssemblyReference.cache
+/Users/paco/projects/radio_buttons/radio_buttons/obj/Debug/netstandard2.0/radio_buttons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paco/projects/radio_buttons/radio_buttons/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/paco/projects/radio_buttons/radio_buttons/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/paco/projects/radio_buttons/radio_buttons/obj/Debug/netstandard2.0/radio_buttons.AssemblyInfoInputs.cache
+/Users/paco/projects/radio_buttons/radio_buttons/obj/Debug/netstandard2.0/radio_buttons.AssemblyInfo.cs
+/Users/paco/projects/radio_buttons/radio_buttons/obj/Debug/netstandard2.0/radio_buttons.csproj.CoreCompileInputs.cache
+/Users/paco/projects/radio_buttons/radio_buttons/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/paco/projects/radio_buttons/radio_buttons/obj/Debug/netstandard2.0/radio_buttons.dll
+/Users/paco/projects/radio_buttons/radio_buttons/obj/Debug/netstandard2.0/ref/radio_buttons.dll
+/Users/paco/projects/radio_buttons/radio_buttons/obj/Debug/netstandard2.0/radio_buttons.pdb

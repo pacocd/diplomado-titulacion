@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wGv5EKSUUPndepj8OjmjXN0qhw1Y0CFLWD51hlNtfiE2FedgtP7UAF4bKs/mvCiWgcglnfYGfMIcn4OhoMk75w==",
+  "success": true,
+  "projectFilePath": "/Users/paco/projects/radio_buttons/radio_buttons.iOS/radio_buttons.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/paco/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/paco/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/paco/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

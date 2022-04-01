@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "F9CWNUBTyEoOKdQ2uH2kDX4KGPuYi2s/BpKMH5MsblaAM637tOxZg7rEQHIxjmVh6vZfrfF9JQPL2LmdhyRDfQ==",
+  "success": true,
+  "projectFilePath": "/Users/paco/projects/charts/charts.iOS/charts.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/paco/.nuget/packages/microcharts/0.9.5.9/microcharts.0.9.5.9.nupkg.sha512",
+    "/Users/paco/.nuget/packages/microcharts.forms/0.9.5.9/microcharts.forms.0.9.5.9.nupkg.sha512",
+    "/Users/paco/.nuget/packages/skiasharp/2.80.3/skiasharp.2.80.3.nupkg.sha512",
+    "/Users/paco/.nuget/packages/skiasharp.views/2.80.3/skiasharp.views.2.80.3.nupkg.sha512",
+    "/Users/paco/.nuget/packages/skiasharp.views.forms/2.80.3/skiasharp.views.forms.2.80.3.nupkg.sha512",
+    "/Users/paco/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/paco/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/paco/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/paco/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

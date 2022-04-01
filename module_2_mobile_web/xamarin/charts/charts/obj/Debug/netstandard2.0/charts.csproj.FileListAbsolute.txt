@@ -1,0 +1,15 @@
+/Users/paco/projects/charts/charts/bin/Debug/netstandard2.0/charts.deps.json
+/Users/paco/projects/charts/charts/bin/Debug/netstandard2.0/charts.dll
+/Users/paco/projects/charts/charts/bin/Debug/netstandard2.0/ref/charts.dll
+/Users/paco/projects/charts/charts/bin/Debug/netstandard2.0/charts.pdb
+/Users/paco/projects/charts/charts/obj/Debug/netstandard2.0/charts.csproj.AssemblyReference.cache
+/Users/paco/projects/charts/charts/obj/Debug/netstandard2.0/charts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paco/projects/charts/charts/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/paco/projects/charts/charts/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/paco/projects/charts/charts/obj/Debug/netstandard2.0/charts.AssemblyInfoInputs.cache
+/Users/paco/projects/charts/charts/obj/Debug/netstandard2.0/charts.AssemblyInfo.cs
+/Users/paco/projects/charts/charts/obj/Debug/netstandard2.0/charts.csproj.CoreCompileInputs.cache
+/Users/paco/projects/charts/charts/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/paco/projects/charts/charts/obj/Debug/netstandard2.0/charts.dll
+/Users/paco/projects/charts/charts/obj/Debug/netstandard2.0/ref/charts.dll
+/Users/paco/projects/charts/charts/obj/Debug/netstandard2.0/charts.pdb

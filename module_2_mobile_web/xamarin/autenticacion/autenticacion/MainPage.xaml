@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="autenticacion.MainPage">
+
+    <NavigationPage.TitleView>
+        <Label Text="Registro"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+    </NavigationPage.TitleView>
+    <StackLayout Margin="15">
+        <Label Text="Usuario" />
+        <Entry x:Name="usernameInput"
+               IsSpellCheckEnabled="False"
+               IsTextPredictionEnabled="False"
+               Keyboard="Email"/>
+        <Label Text="Contraseña" />
+        <Entry x:Name="passwordInput"
+               IsSpellCheckEnabled="False"
+               IsTextPredictionEnabled="False"
+               IsPassword="True"
+               Keyboard="Email"/>
+        
+        <StackLayout Orientation="Horizontal" Margin="0, 10">
+            <Switch x:Name="rememberMeSwitch" />
+            <Label Text="Recordarme" VerticalTextAlignment="Center" />
+        </StackLayout>
+        <Button x:Name="loginButton"
+                Text="Ingresar"
+                Clicked="SignIn" />
+        
+    </StackLayout>
+</ContentPage>

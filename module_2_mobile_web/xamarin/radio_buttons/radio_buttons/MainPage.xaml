@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="radio_buttons.MainPage">
+
+    <NavigationPage.TitleView>
+        <Label
+            x:Name="titleLabel"
+            Text="Radio Bttons"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"/>
+    </NavigationPage.TitleView>
+    <StackLayout Margin="15">
+        <Label
+            Text="Valor 1"
+            FontSize="Body"/>
+        <Entry
+            x:Name="firstValueInput"
+            Text=""/>
+        <Label
+            Text="Valor 2"
+            FontSize="Body"
+            Margin="0, 15, 0, 0"/>
+        <Entry
+            x:Name="secondValueInput"
+            Text=""/>
+
+        <StackLayout Margin="0, 15">
+            <Label Text="Qué operación desea realizar?"/>
+            <RadioButton
+                Value="0"
+                GroupName="Operations"
+                Content="Suma"
+                IsChecked="True"
+                CheckedChanged="RadioButton_CheckedChanged" />
+            <RadioButton
+                Value="1"
+                GroupName="Operations"
+                Content="Resta"
+                CheckedChanged="RadioButton_CheckedChanged" />
+            <RadioButton
+                Value="2"
+                GroupName="Operations"
+                Content="Multiplicación"
+                CheckedChanged="RadioButton_CheckedChanged" />
+            <RadioButton
+                Value="3"
+                GroupName="Operations"
+                Content="División"
+                CheckedChanged="RadioButton_CheckedChanged" />
+        </StackLayout>
+        <Button
+            x:Name="operationButton"
+            Text="Realizar operación"
+            Clicked="operationButton_Clicked"/>
+        <Label
+            x:Name="resultLabel"
+            Text=""/>
+    </StackLayout>
+</ContentPage>

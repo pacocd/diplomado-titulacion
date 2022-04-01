@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="lista_basica.MainPage">
+
+    <StackLayout>
+        <Label Text="Nombre de la fruta:" Margin="15"/>
+        <Entry x:Name="nameInput" Margin="15, 0"/>
+        <Label Text="URL de imagen de la fruta" Margin="15"/>
+        <Entry x:Name="urlInput" Margin="15, 0"/>
+        <Button Text="Agregar"
+                Clicked="Button_Clicked"/>
+        <ListView x:Name="listView"
+                  ItemTapped="listView_ItemTapped"
+                  SeparatorColor="LightGray"
+                  HasUnevenRows="True"
+                  ItemsSource="{Binding Fruit}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Margin="15, 10">
+                            <Image WidthRequest="44" HeightRequest="44" Source="{Binding url}"/>
+                            <StackLayout>
+                                <Label Text="Valor del elemento:"/>
+                                <Label Text="{Binding name}" />
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,15 @@
+/Users/paco/projects/checkboxes/checkboxes/obj/Debug/netstandard2.0/checkboxes.csproj.AssemblyReference.cache
+/Users/paco/projects/checkboxes/checkboxes/obj/Debug/netstandard2.0/checkboxes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paco/projects/checkboxes/checkboxes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/paco/projects/checkboxes/checkboxes/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/paco/projects/checkboxes/checkboxes/obj/Debug/netstandard2.0/checkboxes.AssemblyInfoInputs.cache
+/Users/paco/projects/checkboxes/checkboxes/obj/Debug/netstandard2.0/checkboxes.AssemblyInfo.cs
+/Users/paco/projects/checkboxes/checkboxes/obj/Debug/netstandard2.0/checkboxes.csproj.CoreCompileInputs.cache
+/Users/paco/projects/checkboxes/checkboxes/obj/Debug/netstandard2.0/checkboxes.dll
+/Users/paco/projects/checkboxes/checkboxes/obj/Debug/netstandard2.0/ref/checkboxes.dll
+/Users/paco/projects/checkboxes/checkboxes/obj/Debug/netstandard2.0/checkboxes.pdb
+/Users/paco/projects/checkboxes/checkboxes/bin/Debug/netstandard2.0/checkboxes.deps.json
+/Users/paco/projects/checkboxes/checkboxes/bin/Debug/netstandard2.0/checkboxes.dll
+/Users/paco/projects/checkboxes/checkboxes/bin/Debug/netstandard2.0/ref/checkboxes.dll
+/Users/paco/projects/checkboxes/checkboxes/bin/Debug/netstandard2.0/checkboxes.pdb
+/Users/paco/projects/checkboxes/checkboxes/obj/Debug/netstandard2.0/XamlC.stamp

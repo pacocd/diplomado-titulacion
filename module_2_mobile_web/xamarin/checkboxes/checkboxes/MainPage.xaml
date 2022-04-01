@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="checkboxes.MainPage">
+    <NavigationPage.TitleView>
+        <Label
+            x:Name="titleLabel"
+            Text="Checkboxes"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"/>
+    </NavigationPage.TitleView>
+    <StackLayout Margin="15">
+        <Label
+            Text="Valor 1"
+            FontSize="Body"/>
+        <Entry
+            x:Name="firstValueInput"
+            Text=""/>
+        <Label
+            Text="Valor 2"
+            FontSize="Body"
+            Margin="0, 15, 0, 0"/>
+        <Entry
+            x:Name="secondValueInput"
+            Text=""/>
+        <StackLayout Orientation="Horizontal" >
+            <CheckBox x:Name="additionCheck" />
+            <Label Text="Sumar" VerticalTextAlignment="Center" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" >
+            <CheckBox x:Name="substractionCheck" />
+            <Label Text="Restar" VerticalTextAlignment="Center" />
+        </StackLayout>
+        <Button
+            x:Name="operationButton"
+            Text="Realizar operación"
+            Clicked="operationButton_Clicked"/>
+        <Label
+            x:Name="resultLabel"
+            Text=""/>
+    </StackLayout>
+
+</ContentPage>

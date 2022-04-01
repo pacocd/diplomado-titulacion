@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="suma.MainPage">
+    <NavigationPage.TitleView>
+        <Label Text="Suma"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center"/>
+    </NavigationPage.TitleView>
+    <StackLayout>
+        <Label Text="Primer valor"
+               FontSize="Body"
+               Margin="15, 10"/>
+        <Entry x:Name="firstValueInput" Margin="15" Text=""/>
+        <Label Text="Segundo valor"
+               FontSize="Body"
+               Margin="15, 10"/>
+        <Entry x:Name="secondValueInput" Margin="15" Text=""/>
+
+        <Button Text="Sumar"
+                x:Name="actionButton"
+                Clicked="ActionButton_Clicked"/>
+
+        <Label x:Name="resultLabel" Margin="15, 10"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1E5887C8-C1FC-43BE-A477-595E8C6F1DD1}|Default">
+  <MonoDevelop.Ide.ItemProperties.picker.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="picker/MainPage.xaml.cs">
+    <Files>
+      <File FileName="picker/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="picker/MainPage.xaml.cs" Line="7" Column="1" />
+      <File FileName="picker.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="picker" expanded="True">
+            <Node name="picker" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="picker.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.picker.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.254D3A8B-D765-4F80-9151-05F500731EF2" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

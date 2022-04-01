@@ -1,0 +1,15 @@
+/Users/paco/projects/picker/picker/obj/Debug/netstandard2.0/picker.csproj.AssemblyReference.cache
+/Users/paco/projects/picker/picker/obj/Debug/netstandard2.0/picker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paco/projects/picker/picker/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/paco/projects/picker/picker/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/paco/projects/picker/picker/obj/Debug/netstandard2.0/picker.AssemblyInfoInputs.cache
+/Users/paco/projects/picker/picker/obj/Debug/netstandard2.0/picker.AssemblyInfo.cs
+/Users/paco/projects/picker/picker/obj/Debug/netstandard2.0/picker.csproj.CoreCompileInputs.cache
+/Users/paco/projects/picker/picker/obj/Debug/netstandard2.0/picker.dll
+/Users/paco/projects/picker/picker/obj/Debug/netstandard2.0/ref/picker.dll
+/Users/paco/projects/picker/picker/obj/Debug/netstandard2.0/picker.pdb
+/Users/paco/projects/picker/picker/bin/Debug/netstandard2.0/picker.deps.json
+/Users/paco/projects/picker/picker/bin/Debug/netstandard2.0/picker.dll
+/Users/paco/projects/picker/picker/bin/Debug/netstandard2.0/ref/picker.dll
+/Users/paco/projects/picker/picker/bin/Debug/netstandard2.0/picker.pdb
+/Users/paco/projects/picker/picker/obj/Debug/netstandard2.0/XamlC.stamp

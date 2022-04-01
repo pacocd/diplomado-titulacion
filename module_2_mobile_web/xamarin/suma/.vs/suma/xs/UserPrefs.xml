@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{992E5F29-97EB-4B9A-BFBF-227FD596E0F9}|Default">
+  <MonoDevelop.Ide.ItemProperties.suma.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.254D3A8B-D765-4F80-9151-05F500731EF2" />
+  <MonoDevelop.Ide.ItemProperties.suma.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="suma/MainPage.xaml">
+    <Files>
+      <File FileName="suma/MainPage.xaml" Line="5" Column="31" />
+      <File FileName="suma/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="suma" expanded="True">
+            <Node name="suma" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="suma.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

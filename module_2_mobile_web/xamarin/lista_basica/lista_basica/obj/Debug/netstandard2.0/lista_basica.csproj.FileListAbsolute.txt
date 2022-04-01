@@ -1,0 +1,15 @@
+/Users/paco/projects/lista_basica/lista_basica/obj/Debug/netstandard2.0/lista_basica.csproj.AssemblyReference.cache
+/Users/paco/projects/lista_basica/lista_basica/obj/Debug/netstandard2.0/lista_basica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paco/projects/lista_basica/lista_basica/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/paco/projects/lista_basica/lista_basica/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/paco/projects/lista_basica/lista_basica/obj/Debug/netstandard2.0/lista_basica.AssemblyInfoInputs.cache
+/Users/paco/projects/lista_basica/lista_basica/obj/Debug/netstandard2.0/lista_basica.AssemblyInfo.cs
+/Users/paco/projects/lista_basica/lista_basica/obj/Debug/netstandard2.0/lista_basica.csproj.CoreCompileInputs.cache
+/Users/paco/projects/lista_basica/lista_basica/obj/Debug/netstandard2.0/lista_basica.dll
+/Users/paco/projects/lista_basica/lista_basica/obj/Debug/netstandard2.0/ref/lista_basica.dll
+/Users/paco/projects/lista_basica/lista_basica/obj/Debug/netstandard2.0/lista_basica.pdb
+/Users/paco/projects/lista_basica/lista_basica/bin/Debug/netstandard2.0/lista_basica.deps.json
+/Users/paco/projects/lista_basica/lista_basica/bin/Debug/netstandard2.0/lista_basica.dll
+/Users/paco/projects/lista_basica/lista_basica/bin/Debug/netstandard2.0/ref/lista_basica.dll
+/Users/paco/projects/lista_basica/lista_basica/bin/Debug/netstandard2.0/lista_basica.pdb
+/Users/paco/projects/lista_basica/lista_basica/obj/Debug/netstandard2.0/XamlC.stamp

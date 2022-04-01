@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1E4163B3-46EE-48A8-955A-C77AE4097BC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="radio_buttons/MainPage.xaml">
+    <Files>
+      <File FileName="radio_buttons/App.xaml" Line="6" Column="1" />
+      <File FileName="radio_buttons/MainPage.xaml" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="radio_buttons" expanded="True">
+            <Node name="radio_buttons" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+            <Node name="radio_buttons.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.radio__buttons.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.radio__buttons.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.254D3A8B-D765-4F80-9151-05F500731EF2" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

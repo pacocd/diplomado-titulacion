@@ -1,0 +1,16 @@
+/Users/paco/projects/autenticacion/autenticacion/obj/Debug/netstandard2.0/autenticacion.csproj.AssemblyReference.cache
+/Users/paco/projects/autenticacion/autenticacion/obj/Debug/netstandard2.0/autenticacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paco/projects/autenticacion/autenticacion/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/paco/projects/autenticacion/autenticacion/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/paco/projects/autenticacion/autenticacion/obj/Debug/netstandard2.0/autenticacion.AssemblyInfoInputs.cache
+/Users/paco/projects/autenticacion/autenticacion/obj/Debug/netstandard2.0/autenticacion.AssemblyInfo.cs
+/Users/paco/projects/autenticacion/autenticacion/obj/Debug/netstandard2.0/autenticacion.csproj.CoreCompileInputs.cache
+/Users/paco/projects/autenticacion/autenticacion/bin/Debug/netstandard2.0/autenticacion.deps.json
+/Users/paco/projects/autenticacion/autenticacion/bin/Debug/netstandard2.0/autenticacion.dll
+/Users/paco/projects/autenticacion/autenticacion/bin/Debug/netstandard2.0/ref/autenticacion.dll
+/Users/paco/projects/autenticacion/autenticacion/bin/Debug/netstandard2.0/autenticacion.pdb
+/Users/paco/projects/autenticacion/autenticacion/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/paco/projects/autenticacion/autenticacion/obj/Debug/netstandard2.0/autenticacion.dll
+/Users/paco/projects/autenticacion/autenticacion/obj/Debug/netstandard2.0/ref/autenticacion.dll
+/Users/paco/projects/autenticacion/autenticacion/obj/Debug/netstandard2.0/autenticacion.pdb
+/Users/paco/projects/autenticacion/autenticacion/obj/Debug/netstandard2.0/UserDetailPage.xaml.g.cs

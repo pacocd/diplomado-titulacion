@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E90D875E-A90E-422E-8979-0B175B7BB48F}|Default">
+  <MonoDevelop.Ide.ItemProperties.checkboxes.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.254D3A8B-D765-4F80-9151-05F500731EF2" />
+  <MonoDevelop.Ide.ItemProperties.checkboxes.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="checkboxes/MainPage.xaml.cs">
+    <Files>
+      <File FileName="checkboxes/MainPage.xaml" Line="16" Column="11" />
+      <File FileName="checkboxes/MainPage.xaml.cs" Line="29" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="checkboxes" expanded="True">
+            <Node name="checkboxes" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
